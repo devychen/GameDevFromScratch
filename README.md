@@ -1,1 +1,1 @@
-# Game Development Self-Learning
+# Game Development Learning from Scratch
