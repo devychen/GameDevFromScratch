@@ -11,9 +11,9 @@ Books and other materials I use for these languages:
 - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
 - 📖 On Java (8th)
 - (Sometimes for faster learning): [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
-- (haven't use it yet) [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
+- (Haven't use it yet) [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
 2. C++
-- I started with C++ Primer Plus (6th)
+- 📖 I started with C++ Primer Plus (6th)
 - (Sometimes for faster learning): [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 3. Python
 - 🧑‍🏫 Degree course: Data Science for Linguists
