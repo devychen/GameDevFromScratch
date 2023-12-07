@@ -4,9 +4,9 @@
 
 #### My background:
 1. Education:
-   MA Computational Linguistics (Tuebingen 🇩🇪), MSc Sociology (Oxford 🇬🇧), BA Sociology (Manchester 🇬🇧)
-3. Professions:
-   Game Marketer (ByteDance), Management Consultant (A.T.Kearney), TV Producer (MGTV)
+MA Computational Linguistics (Tuebingen 🇩🇪), MSc Sociology (Oxford 🇬🇧), BA Sociology (Manchester 🇬🇧)
+2. Professions:
+Game Marketer (ByteDance), Management Consultant (A.T.Kearney), TV Producer (MGTV)
 
 ## Programming Language (in hierarchy)
 1. Java: Part of the degree courses
