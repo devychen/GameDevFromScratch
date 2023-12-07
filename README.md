@@ -55,3 +55,4 @@ https://www.promptingguide.ai/
 ## Unreal Engine
 
 ## Computer Graphics
+Online Course: [UCSB](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
