@@ -47,7 +47,7 @@
 ## NLP Frameworks
 
 ## LLM (Transformers)
-Degree course: Transformer-based Language Models (I did not take it, but good to read the materials)
+Degree course: Transformer-based Language Models (I did not take it yet, but worth to read the materials)
 
 ## Prompt Engineering
 https://www.promptingguide.ai/
