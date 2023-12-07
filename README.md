@@ -1,6 +1,7 @@
 # Game Development Learning from Scratch
 
 > A record of my self-learning road to become a GAMEDEV and also a LLM Prompt Engineer. I might switch to other related specialists tho, haven't make it final yet. But these knowledge should still be helpful.
+
 My background:
 1. Education: MA Computational Linguistics (Tuebingen, DE), MSc Sociology (Oxford, UK), BA Sociology (Manchester, UK)
 2. Professions: Game Marketer (ByteDance), Management Consultant (A.T.Kearney), TV Producer (MGTV)
