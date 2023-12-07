@@ -4,9 +4,9 @@
 
 #### My background:
 1. Education:
-- MA Computational Linguistics (Tuebingen 🇩🇪)
-- MSc Sociology (Oxford 🇬🇧)
-- BA Sociology (Manchester 🇬🇧)
+- MA Computational Linguistics (Tuebingen, DE)
+- MSc Sociology (Oxford, UK)
+- BA Sociology (Manchester, UK)
 2. Professions:
 - Game Marketer (ByteDance)
 - Management Consultant (A.T.Kearney)
