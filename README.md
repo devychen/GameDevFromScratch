@@ -12,7 +12,7 @@
 3. Python: Only use it for NLP data analysis.
 
 ### Books and other materials I use for these languages
-1. java
+1. Java
 - 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
 - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
 - 📖 On Java (8th)
