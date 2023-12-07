@@ -1,5 +1,7 @@
 # Game Development Learning from Scratch
 
+< A record of my self-learning road to become a GAMEDEV and also a LLM Prompt Engineer. I might switch to other related specialists tho, haven't make it final yet. But these knowledge should still be helpful.
+
 ## Programming Language (in hierarchy)
 1. Java: Part of the degree courses
 2. C++: Everyone looks so confused when heard I chose C++ for self-learning. But my reason is very simple: UE.
