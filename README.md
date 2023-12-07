@@ -42,6 +42,11 @@
 - Degree courses: Statistical Methods for NLP 1&2 
 
 ## Machine Learning & Deep Learning
+##### Frameworks, Algorithms
+
+## NLP Frameworks
+
+## LLM (Transformers)
 
 ## Unreal Engine
 
