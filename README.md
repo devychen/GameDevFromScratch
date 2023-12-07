@@ -1,11 +1,11 @@
 # Game Development Learning from Scratch
 
-Programming Language (in hierarchy):  
+# Programming Language (in hierarchy):  
 1. Java: Part of the degree courses
 2. C++: Everyone looks so confused when heard I chose C++ for self-learning. But my reason is very simple: UE.
 3. Python: Only use it for NLP data analysis.
 
-Books and other materials I use for these languages:
+### Books and other materials I use for these languages:
 1. java
 - 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
 - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
