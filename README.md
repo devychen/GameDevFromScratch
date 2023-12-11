@@ -56,3 +56,7 @@ https://www.promptingguide.ai/
 
 ## Computer Graphics
 Online Course: [UCSB](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+
+## Snacks:
+1. GameDev's blog:
+   - https://chengkehan.github.io/index.html
