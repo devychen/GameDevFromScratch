@@ -41,6 +41,12 @@
 3. Statistics
 - Degree courses: Statistical Methods for NLP 1&2 
 
+## Data Science 
+- Low priority, not a focus. Only for necessarity.
+- Degree course: 🧑‍🏫 Data Science for Linguists
+- Interesting materials:
+   - [An intro tutorial to SpaCy](https://course.spacy.io/en/chapter1)
+
 ## Machine Learning & Deep Learning
 ##### Frameworks, Algorithms
 
