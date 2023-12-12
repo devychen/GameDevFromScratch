@@ -43,8 +43,8 @@
 
 ## Data Science 
 Low priority, not a focus. Only for necessarity.
-1. 🧑‍🏫 Degree course: Data Science for Linguists
-2. Interesting materials:
+- 🧑‍🏫 Degree course: Data Science for Linguists
+- Interesting materials:
    - [An intro tutorial to SpaCy](https://course.spacy.io/en/chapter1)
 
 ## Machine Learning & Deep Learning
