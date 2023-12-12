@@ -4,13 +4,13 @@
 
 #### My background:
 1. Education:
-- MA Computational Linguistics (Tuebingen, DE)
-- MSc Sociology (Oxford, UK)
-- BA Sociology (Manchester, UK)
+   - MA Computational Linguistics (Tuebingen, DE)
+   - MSc Sociology (Oxford, UK)
+   - BA Sociology (Manchester, UK)
 2. Professions:
-- Game Marketer (ByteDance)
-- Management Consultant (A.T.Kearney)
-- TV Producer (MGTV)
+   - Game Marketer (ByteDance)
+   - Management Consultant (A.T.Kearney)
+   - TV Producer (MGTV)
 
 ## Programming Language (in hierarchy)
 1. **Java**: Part of the degree courses
@@ -19,32 +19,32 @@
 
 #### Books and other materials I use for these languages
 1. **Java**
-- 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
-- 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
-- 📖 On Java (8th)
-- (Sometimes for faster learning): [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
-- (Haven't use it yet) [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
+   - 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
+   - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
+   - 📖 On Java (8th)
+   - (Sometimes for faster learning): [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
+   - (Haven't use it yet) [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
 2. **C++**
-- 📖 I started with C++ Primer Plus (6th)
-- (Sometimes for faster learning): [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+   - 📖 I started with C++ Primer Plus (6th)
+   - (Sometimes for faster learning): [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 3. **Python**
-- 🧑‍🏫 Degree course: Data Science for Linguists
-- 📖 and its textbook: Python Data Science Handbook, O'Reilly
-- 📖 Python for Data Analysis, O'Reilly (Of course, old friend O'Reilly)
-- [w3schools Python Tutorial](https://www.w3schools.com/python/default.asp), I use it as a Pythonwiki
+   - 🧑‍🏫 Degree course: Data Science for Linguists
+   - 📖 and its textbook: Python Data Science Handbook, O'Reilly
+   - 📖 Python for Data Analysis, O'Reilly (Of course, old friend O'Reilly)
+   - [w3schools Python Tutorial](https://www.w3schools.com/python/default.asp), I use it as a Pythonwiki
 
 ## Mathematics
 1. Linear Algebra
-- 🧑‍🏫 Degree course: [Linear Algebra](https://github.com/gerhardJaeger/linear_algebra_wise23)
-- The very famous [MIT Linear Algebra](http://ocw.mit.edu/) course, and two useful notes: [Note 1](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes), [Note 2](https://github.com/guokaide/linear-algebra) (in CN)
+   - 🧑‍🏫 Degree course: [Linear Algebra](https://github.com/gerhardJaeger/linear_algebra_wise23)
+   - The very famous [MIT Linear Algebra](http://ocw.mit.edu/) course, and two useful notes: [Note 1](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes), [Note 2](https://github.com/guokaide/linear-algebra) (in CN)
 2. Calculus
 3. Statistics
-- Degree courses: Statistical Methods for NLP 1&2 
+   - Degree courses: Statistical Methods for NLP 1&2 
 
 ## Data Science 
-- Low priority, not a focus. Only for necessarity.
-- Degree course: 🧑‍🏫 Data Science for Linguists
-- Interesting materials:
+Low priority, not a focus. Only for necessarity.
+1. Degree course: 🧑‍🏫 Data Science for Linguists
+2. Interesting materials:
    - [An intro tutorial to SpaCy](https://course.spacy.io/en/chapter1)
 
 ## Machine Learning & Deep Learning
