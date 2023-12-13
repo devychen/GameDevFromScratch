@@ -26,8 +26,10 @@
       - [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
       - [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
       - [All classes by Oracle](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html)
-      - [Oracle tutorials](https://docs.oracle.com/javase/tutorial/java/)
-      - w3school 
+      - [Oracle tutorials](https://docs.oracle.com/javase/tutorial/)
+      - w3school
+   - Sources:
+      - [Java API Documentation](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) 
 2. **C++**
    - 📖 I started with _C++ Primer Plus_ (6th)
    - Tutorials:
