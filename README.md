@@ -20,8 +20,8 @@
 #### Books and other materials I use for these languages
 1. **Java**
    - 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
-   - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
-   - 📖 On Java (8th)
+   - 📖 and its textbook: _Java: An Introduction to Problem Solving And Programming (6th)_, Walter Savitch
+   - 📖 _On Java (8th)_
    - Tutorials:
       - [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
       - [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
@@ -29,13 +29,13 @@
       - [Oracle tutorials](https://docs.oracle.com/javase/tutorial/java/)
       - w3school 
 2. **C++**
-   - 📖 I started with C++ Primer Plus (6th)
+   - 📖 I started with _C++ Primer Plus_ (6th)
    - Tutorials:
       - [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 3. **Python**
    - 🧑‍🏫 Degree course: Data Science for Linguists
-   - 📖 and its textbook: Python Data Science Handbook, O'Reilly
-   - 📖 Python for Data Analysis, O'Reilly (Of course, old friend O'Reilly)
+   - 📖 and its textbook: _Python Data Science Handbook_, O'Reilly
+   - 📖 _Python for Data Analysis_, O'Reilly (Of course, old friend O'Reilly)
    - [w3schools Python Tutorial](https://www.w3schools.com/python/default.asp), I use it as a Pythonwiki
 
 ## Mathematics
@@ -44,7 +44,7 @@
    - The very famous [MIT Linear Algebra](http://ocw.mit.edu/) course, and two useful notes: [Note 1](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes), [Note 2](https://github.com/guokaide/linear-algebra) (in CN)
 2. Calculus
 3. Statistics
-   - Degree courses: Statistical Methods for NLP 1&2 
+   - 🧑‍🏫 Degree courses: Statistical Methods for NLP 1&2 
 
 ## Data Science 
 Low priority, not a focus. Only for necessarity.
