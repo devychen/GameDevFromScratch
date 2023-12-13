@@ -22,11 +22,16 @@
    - 🧑‍🏫 Degree course: Data Structure and Algorithms 1&2
    - 📖 and its textbook: Java: An Introduction to Problem Solving And Programming (6th), Walter Savitch
    - 📖 On Java (8th)
-   - (Sometimes for faster learning): [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
-   - (Haven't use it yet) [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
+   - Tutorials:
+      - [Runoob Java](https://www.runoob.com/java/java-basic-syntax.html) (in CN)
+      - [Java Full Stack Knowledge](https://pdai.tech/md/outline/x-outline.html) (in CN)
+      - [All classes by Oracle](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html)
+      - [Oracle tutorials](https://docs.oracle.com/javase/tutorial/java/)
+      - w3school 
 2. **C++**
    - 📖 I started with C++ Primer Plus (6th)
-   - (Sometimes for faster learning): [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+   - Tutorials:
+      - [Runoob C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 3. **Python**
    - 🧑‍🏫 Degree course: Data Science for Linguists
    - 📖 and its textbook: Python Data Science Handbook, O'Reilly
