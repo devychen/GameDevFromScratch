@@ -59,6 +59,7 @@ Low priority, not a focus. Only for necessarity.
 ##### Frameworks, Algorithms
 
 ## NLP Frameworks
+1. SpaCy: [Usage Guide](https://spacy.io/usage)
 
 ## LLM (Transformers)
 Degree course: Transformer-based Language Models (I did not take it yet due to a lack of necessary knowledge, but worth to read the materials)
