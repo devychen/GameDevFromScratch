@@ -44,7 +44,7 @@
 ## Mathematics
 1. Linear Algebra
    - 🧑‍🏫 Degree course: [Linear Algebra](https://github.com/gerhardJaeger/linear_algebra_wise23)
-   - The very famous [MIT Linear Algebra](http://ocw.mit.edu/) course, and two useful notes: [Note 1](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes), [Note 2](https://github.com/guokaide/linear-algebra) (in CN)
+   - The very famous [MIT Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) course, and several useful notes: [Note 1](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes), [Note 2](https://github.com/guokaide/linear-algebra), [Note 3](https://github.com/Richardyu114/MIT-Linear-Algebra-Learning-Materials/tree/master/materials), [Note 4 布客](https://linalg.apachecn.org/) (in CN)
 2. Calculus
 3. Statistics
    - 🧑‍🏫 Degree courses: Statistical Methods for NLP 1&2 
