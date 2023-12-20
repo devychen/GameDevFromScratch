@@ -1,6 +1,6 @@
 # Game Development: Learning from Scratch
 
-> A record of my self-learning road to become a GAMEDEV and also a LLM Prompt Engineer. I might switch to other related specialists tho, haven't make it final yet. But these knowledge should still be helpful.
+> A documentation of my self-learning journey to become a GAMEDEV and also an LLM Prompt Engineer. I might switch to other related specialties, though; I haven't finalized my decision yet. Nevertheless, this knowledge should still be beneficial
 
 #### My background:
 1. Education:
