@@ -73,7 +73,7 @@ Degree course: Transformer-based Language Models (I did not take it yet due to a
 ## Prompt Engineering
 https://www.promptingguide.ai/
 
-## ❗️❗️❗️Unreal Engine
+## Unreal Engine❗️❗️❗️
 
 ## Computer Graphics
 Online Course: [UCSB](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
