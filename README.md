@@ -28,8 +28,10 @@
       - [All classes by Oracle](https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html)
       - [Oracle tutorials](https://docs.oracle.com/javase/tutorial/)
       - w3school
-   - Sources:
-      - [Java API Documentation](https://docs.oracle.com/en/java/javase/21/docs/api/index.html) 
+   - Documentation:
+      - [Java API Documentation](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+   - Exercises:
+      - [HeckerRank](https://www.hackerrank.com/domains/java) 
 2. **C++**
    - 📖 I started with _C++ Primer Plus_ (6th)
    - Tutorials:
@@ -42,6 +44,7 @@
    - 😊 Exercises:
       - [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
       - [w3schools Python Tutorial](https://www.w3schools.com/python/default.asp)
+      - [HeckerRank](https://www.hackerrank.com/domains/python)
 
 ## Mathematics
 1. Linear Algebra
