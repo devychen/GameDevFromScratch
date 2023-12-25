@@ -40,6 +40,7 @@
    - 📖 _Python for Data Analysis_, O'Reilly (Of course, old friend O'Reilly)
    - [w3schools Python Tutorial](https://www.w3schools.com/python/default.asp), I use it as a Pythonwiki
    - [Python Documentation](https://docs.python.org/3.12/contents.html)
+   - 😊 Exercises: [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
 
 ## Mathematics
 1. Linear Algebra
