@@ -81,3 +81,6 @@ Online Course: [UCSB](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 ## Snacks:
 1. Jim's GameDev's blog:
    - https://chengkehan.github.io/index.html
+2. Some papers:
+   - [UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://xizaoqu.github.io/unihsi/)
+   - 
